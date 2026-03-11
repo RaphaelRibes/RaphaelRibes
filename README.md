@@ -21,21 +21,21 @@
 
 - 🔭 Studying **bioinformatics** at the **University of Montpellier**
 - 😍 Passionate about **bioinformatics**, **environmental microbiology** and **metagenomics**
-- 🔬 Currently doing my **M2 internship** — [check it out on GitLab](https://gitlab.etu.umontpellier.fr/rapha-l-ribes-m2-internship)
+- 🔬 Currently doing my **M2 internship**, [check it out on GitLab](https://gitlab.etu.umontpellier.fr/rapha-l-ribes-m2-internship) !
 - 🤔 Looking for a **PhD in metagenomics** or OMICs sciences!
-- 🎮 Game designer & member of [**Altearn**](https://github.com/Altearn)
+- 🎮 Game designer & member of [**Altearn**](https://altearn.xyz/)
 - ⚡ *Fun fact: I'm gonna write a paper on how sleeping is optional and you only need coke and coffee to survive*
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**pixitainer**](https://github.com/RaphaelRibes/pixitainer) ⭐ 21 | Bridge [Pixi](https://pixi.sh) package manager with [Apptainer](https://apptainer.org) containers for **reproducible research** | `Shell` `Bash` |
-| [**FDedup**](https://github.com/RaphaelRibes/FDedup) | Fast & memory-efficient **FASTX PCR deduplication** tool using xxh3 hashing | `Rust` |
-| [**RaMiLass**](https://github.com/MickaelCQ/RaMiLass) | C++ **genome assembler** using de Bruijn graphs | `C++` |
-| [**RMT × MENA**](https://github.com/RaphaelRibes/Evolution-of-Gene-Network-Analysis-Methods-Towards-an-Approach-Using-Random-Matrix-Theory) | Bibliography on **Random Matrix Theory** in gene network analysis | `LaTeX` |
+| Project | Description                                                                                          | Tech |
+|---------|------------------------------------------------------------------------------------------------------|------|
+| [**pixitainer**](https://github.com/RaphaelRibes/pixitainer) ⭐ 21 | Containerize your [Pixi](https://pixi.sh) workspace into an [Apptainer](https://apptainer.org) image | `Shell` `Bash` |
+| [**FDedup**](https://github.com/RaphaelRibes/FDedup) | Fast & memory-efficient **FASTX PCR deduplication** tool using xxh3 hashing                          | `Rust` |
+| [**RaMiLass**](https://github.com/MickaelCQ/RaMiLass) | C++ **genome assembler** using de Bruijn graphs                                                      | `C++` |
+| [**RMT × MENA**](https://github.com/RaphaelRibes/Evolution-of-Gene-Network-Analysis-Methods-Towards-an-Approach-Using-Random-Matrix-Theory) | Bibliography on **Random Matrix Theory** in gene network analysis                                    | `LaTeX` |
 
 ---
 
