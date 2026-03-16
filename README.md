@@ -33,7 +33,7 @@
 | Project | Description                                                                                          | Tech |
 |---------|------------------------------------------------------------------------------------------------------|------|
 | [**pixitainer**](https://github.com/RaphaelRibes/pixitainer) ⭐ 21 | Containerize your [Pixi](https://pixi.sh) workspace into an [Apptainer](https://apptainer.org) image | `Shell` `Bash` |
-| [**FDedup**](https://github.com/RaphaelRibes/FDedup) | Fast & memory-efficient **FASTX PCR deduplication** tool using xxh3 hashing                          | `Rust` |
+| [**FastDedup**](https://github.com/RaphaelRibes/FDedup) | Fast & memory-efficient **FASTX PCR deduplication** tool using xxh3 hashing                          | `Rust` |
 | [**RaMiLass**](https://github.com/MickaelCQ/RaMiLass) | C++ **genome assembler** using de Bruijn graphs                                                      | `C++` |
 | [**RMT × MENA**](https://github.com/RaphaelRibes/Evolution-of-Gene-Network-Analysis-Methods-Towards-an-Approach-Using-Random-Matrix-Theory) | Bibliography on **Random Matrix Theory** in gene network analysis                                    | `LaTeX` |
 
