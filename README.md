@@ -30,12 +30,12 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description                                                                                          | Tech |
-|---------|------------------------------------------------------------------------------------------------------|------|
-| [**pixitainer**](https://github.com/RaphaelRibes/pixitainer) <!-- stars:RaphaelRibes/pixitainer --> ⭐ 22 <!-- endstars --> | Containerize your [Pixi](https://pixi.sh) workspace into an [Apptainer](https://apptainer.org) image | `Shell` `Bash` |
-| [**FastDedup**](https://github.com/RaphaelRibes/FDedup) <!-- stars:RaphaelRibes/FDedup --> ⭐ 1 <!-- endstars --> | Fast & memory-efficient **FASTX PCR deduplication** tool using xxh3 hashing                          | `Rust` |
-| [**RaMiLass**](https://github.com/MickaelCQ/RaMiLass) <!-- stars:MickaelCQ/RaMiLass --> ⭐ 1 <!-- endstars --> | C++ **genome assembler** using de Bruijn graphs                                                      | `C++` |
-| [**RMT × MENA**](https://github.com/RaphaelRibes/Evolution-of-Gene-Network-Analysis-Methods-Towards-an-Approach-Using-Random-Matrix-Theory) | Bibliography on **Random Matrix Theory** in gene network analysis                                    | `LaTeX` |
+| Project                                                                                                                                     | Description                                                                                          | Tech           |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|
+| [**pixitainer**](https://github.com/RaphaelRibes/pixitainer) <!-- stars:RaphaelRibes/pixitainer --> ⭐ 22 <!-- endstars -->                  | Containerize your [Pixi](https://pixi.sh) workspace into an [Apptainer](https://apptainer.org) image | `Shell` `Bash` |
+| [**FastDedup**](https://github.com/RaphaelRibes/FDedup) <!-- stars:RaphaelRibes/FDedup --> ⭐ 1 <!-- endstars -->                            | Fast & memory-efficient **FASTX PCR deduplication** tool using xxh3 hashing                          | `Rust`         |
+| [**RaMiLass**](https://github.com/MickaelCQ/RaMiLass) <!-- stars:MickaelCQ/RaMiLass --> ⭐ 1 <!-- endstars -->                               | C++ **genome assembler** using de Bruijn graphs                                                      | `C++`          |
+| [**RMT × MENA**](https://github.com/RaphaelRibes/Evolution-of-Gene-Network-Analysis-Methods-Towards-an-Approach-Using-Random-Matrix-Theory) | Bibliography on **Random Matrix Theory** in gene network analysis                                    | `LaTeX`        |
 
 ---
 
