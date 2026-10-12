@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>Bioinformatician · Biologist</em><br>
-  <em>🎓 MSc Bioinformatics @ University of Montpellier</em>
+  <em>🎓 MSc Bioinformatics @ University of Montpellier (2024–2026)</em>
 </p>
 
 <p align="center">
@@ -19,9 +19,10 @@
 
 ### 🧬 About Me
 
-- 🔭 Studying **bioinformatics** at the **University of Montpellier**
+- 🎓 Just graduated with an **MSc in Bioinformatics** from the **University of Montpellier**
 - 😍 Passionate about **bioinformatics**, **environmental microbiology** and **metagenomics**
-- 🔬 Currently doing my **M2 internship**, [check it out on GitLab](https://gitlab.etu.umontpellier.fr/rapha-l-ribes-m2-internship) !
+- 🏆 Won the **SFBI Best Oral Presentation** award at **JOBIM 2026** for a de novo assembly pipeline on the *Mandrillus sphinx* microbiome
+- 🔬 My **M2 internship at ISEM** applied custom shotgun metagenomics to the social microbiome of wild mandrills
 - 🤔 Looking for a **PhD in metagenomics** or OMICs sciences!
 - 🎮 Game designer & member of [**Altearn**](https://altearn.xyz/)
 - ⚡ *Fun fact: I'm gonna write a paper on how sleeping is optional and you only need coke and coffee to survive*
@@ -32,8 +33,8 @@
 
 | Project                                                                                                                                     | Description                                                                                          | Tech           |
 |---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|
-| [**pixitainer**](https://github.com/RaphaelRibes/pixitainer) <!-- stars:RaphaelRibes/pixitainer --> ⭐ 37 <!-- endstars -->                  | Containerize your [Pixi](https://pixi.sh) workspace with a single command! | `Pixi` `Bash` |
-| [**FastDedup**](https://github.com/RaphaelRibes/FDedup) <!-- stars:RaphaelRibes/FDedup --> ⭐ 4 <!-- endstars -->                            | Fast & memory-efficient **FASTX PCR deduplication** tool using xxh3 hashing                          | `Rust`         |
+| [**pixitainer**](https://github.com/RaphaelRibes/pixitainer) <!-- stars:RaphaelRibes/pixitainer --> ⭐ 42 <!-- endstars -->                  | Containerize your [Pixi](https://pixi.sh) workspace into an [Apptainer](https://apptainer.org) image | `Shell` `Bash` |
+| [**FastDedup**](https://github.com/RaphaelRibes/FastDedup) <!-- stars:RaphaelRibes/FastDedup --> ⭐ 4 <!-- endstars -->                      | Fast & memory-efficient **FASTX PCR deduplication** tool using xxh3 hashing                          | `Rust`         |
 | [**RaMiLass**](https://github.com/MickaelCQ/RaMiLass) <!-- stars:MickaelCQ/RaMiLass --> ⭐ 1 <!-- endstars -->                               | C++ **genome assembler** using de Bruijn graphs                                                      | `C++`          |
 | [**RMT × MENA**](https://github.com/RaphaelRibes/Evolution-of-Gene-Network-Analysis-Methods-Towards-an-Approach-Using-Random-Matrix-Theory) | Bibliography on **Random Matrix Theory** in gene network analysis                                    | `LaTeX`        |
 
