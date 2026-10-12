@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  📫 <strong>Reach me at</strong>: <a href="mailto:raphael.ribes@etu.umontpellier.fr">raphael.ribes@etu.umontpellier.fr</a>
+  📫 <strong>Reach me at</strong>: <a href="mailto:rribes.contact@pm.me">rribes.contact@pm.me</a>
 </p>
